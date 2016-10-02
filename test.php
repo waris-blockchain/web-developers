@@ -1,4 +1,5 @@
 <?php
 
-phpinfo();
+	echo "Git Sync File";
+
 ?>
